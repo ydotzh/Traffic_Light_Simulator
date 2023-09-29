@@ -4,7 +4,7 @@ setup(
   name = 'traffic_light_simulator_demo',
   packages = ['traffic_light_simulator_demo'],
   include_package_data=True,
-  version = '0.12',
+  version = '0.13',
   license='MIT',
   description = 'traffic light simulator', 
   author = 'Yan', 
