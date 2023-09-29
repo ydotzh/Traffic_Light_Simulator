@@ -1,5 +1,5 @@
-from traffic_light import TrafficLight
-from helpers import handle_input, run_traffic_light_sequence
+from traffic_light_simulator_demo.traffic_light import TrafficLight
+from traffic_light_simulator_demo.helpers import handle_input, run_traffic_light_sequence
 
 def main():
 
