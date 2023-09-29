@@ -1,1 +1,1 @@
-include traffic_light_simulator_demo/traffic_light_art/*
+recursive-include traffic_light_simulator_demo/traffic_light_art *.txt
