@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'Traffic-Light-Simulator',
-  packages = ['Traffic-Light-Simulator'],
+  name = 'traffic_light_simulator_demo',
+  packages = ['traffic_light_simulator_demo'],
   version = '0.2',
   license='MIT',
   description = 'traffic light simulator', 
