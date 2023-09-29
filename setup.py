@@ -13,4 +13,7 @@ setup(
   keywords = ['Data Challenge'],
   classifiers=[
   ],
+  entry_points = {
+        'console_scripts': ['traffic-light-simulator-demo=traffic_light_simulator_demo.user_interface:main'],
+    },
 )
