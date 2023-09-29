@@ -8,7 +8,7 @@ setup(
   author = 'Yan', 
   author_email = 'yzhao1990@gmail.com',
   url = 'https://github.com/ydotzh/Traffic_Light_Simulator',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/ydotzh/Traffic_Light_Simulator/archive/refs/tags/v_01.tar.gz',
   keywords = ['Data Challenge'],
   classifiers=[
     'Development Status :: 3 - Alpha', 
