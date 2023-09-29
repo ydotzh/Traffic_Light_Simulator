@@ -4,7 +4,7 @@ from setuptools import find_packages
 setup(
   name = 'traffic_light_simulator_demo',
   packages = find_packages(),
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'traffic light simulator', 
   author = 'Yan', 
