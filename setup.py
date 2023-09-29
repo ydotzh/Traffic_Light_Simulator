@@ -1,10 +1,9 @@
 from distutils.core import setup
-from setuptools import find_packages
 
 setup(
   name = 'traffic_light_simulator_demo',
-  packages = find_packages(),
-  version = '0.4',
+  packages = ['traffic_light_simulator_demo'],
+  version = '0.5',
   license='MIT',
   description = 'traffic light simulator', 
   author = 'Yan', 
