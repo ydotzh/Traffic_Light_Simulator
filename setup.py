@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'Traffic-Light-Simulator',
   packages = ['Traffic-Light-Simulator'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'traffic light simulator', 
   author = 'Yan', 
   author_email = 'yzhao1990@gmail.com',
   url = 'https://github.com/ydotzh/Traffic_Light_Simulator',
-  download_url = 'https://github.com/ydotzh/Traffic_Light_Simulator/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/ydotzh/Traffic_Light_Simulator/archive/refs/tags/v_02.tar.gz',
   keywords = ['Data Challenge'],
   classifiers=[
     'Development Status :: 3 - Alpha', 
