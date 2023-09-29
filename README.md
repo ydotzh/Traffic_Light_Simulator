@@ -15,7 +15,8 @@ pip install traffic-light-simulator-demo
  
 OR
 
- python3 user_interface.py
+ $ python3 user_interface.py
+
 
 User will be asked to type a number deciding how long each light color should stay lit before transitioning.
 
