@@ -1,5 +1,5 @@
 import unittest
-from traffic_light import TrafficLight
+from traffic_light_simulator_demo.traffic_light import TrafficLight
 
 
 class TrafficLightTestCase(unittest.TestCase):
