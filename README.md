@@ -11,7 +11,7 @@ pip install traffic-light-simulator-demo
 ```
 
 ## Usage
- $ traffic-light-simulator
+ $ traffic-light-simulator-demo
  
 OR
 
